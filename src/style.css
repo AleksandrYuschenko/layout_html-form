@@ -1,1 +1,41 @@
 /* styles go here */
+
+.PersonalInformation {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.PersonalInformation:last-child {
+  margin-bottom: 0;
+}
+
+.Registration {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.Registration:last-child {
+  margin-bottom: 0;
+}
+
+.factAboutYou {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.factAboutYou:last-child {
+  margin-bottom: 0;
+}
+
+.addInfo {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.addInfo:last-child {
+  margin-bottom: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
