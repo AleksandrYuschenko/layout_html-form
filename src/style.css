@@ -12,3 +12,8 @@
 fieldset {
   margin-bottom: 20px;
 }
+
+.radio {
+  display: inline-block;
+  margin-bottom: 10px;
+}
